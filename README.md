@@ -1,2 +1,2 @@
-# Al-Time-Jokes
+# All-Time-Jokes
 Chill And Read Some Jokes!!
